@@ -9,10 +9,10 @@ John Ji Research Lab is an interdisciplinary research group at Vanke School of P
 
 
 
-- [Overview](pages/overview.html)
-- [People](pages/people.html)
-- [Projects](pages/user_site.html)
 
+- [People](pages/people.html)
+- [Projects](pages/projects.html)
+- [Publications](pages/publications.html)
 
 
 ---
